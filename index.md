@@ -7,3 +7,7 @@ I Like Salvatore Ganacci
 ```
 var myVar = "Hello, TomorrowLand!";
 ```
+Ganacci Checklist
+- [ ] Shoe Car
+- [ ] Sexy Shades
+- [ ] Ketamine
